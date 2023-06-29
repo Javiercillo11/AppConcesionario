@@ -1,0 +1,16 @@
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\bin\Debug\concesionario.exe.config
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\bin\Debug\concesionario.exe
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\bin\Debug\concesionario.pdb
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\PracticaFinalIsma.csprojAssemblyReference.cache
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\MainWindow.baml
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\MainWindow.g.cs
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\App.g.cs
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario_MarkupCompile.cache
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario_MarkupCompile.lref
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\App.baml
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario.g.resources
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario.Properties.Resources.resources
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\PracticaFinalIsma.csproj.GenerateResource.cache
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\PracticaFinalIsma.csproj.CoreCompileInputs.cache
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario.exe
+C:\Users\DraKe\Downloads\ruben\concesionario\concesionario\obj\Debug\concesionario.pdb

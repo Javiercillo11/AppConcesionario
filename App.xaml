@@ -1,0 +1,54 @@
+﻿<Application x:Class="concesionario.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:concesionario"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="item1" TargetType="ComboBoxItem">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=Peugeot, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Peugeot 3008" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Hyundai, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Hyundai Tucson"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Kia, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Kia Seltos"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="item2" TargetType="ComboBoxItem">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=Peugeot, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Peugeot 2008"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Hyundai, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Hyundai SantaFe"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Kia, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Kia Sorrento"/>
+                </DataTrigger>
+            </Style.Triggers>
+
+        </Style>
+        <Style x:Key="item3" TargetType="ComboBoxItem">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=Peugeot, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Peugeot 5008"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Hyundai, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Hyundai i30"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=Kia, Path=IsChecked}" Value="true">
+                    <Setter Property="Content" Value="Kia Sportage"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style  TargetType="GridViewColumnHeader">
+            <Setter Property="Background" Value="DarkBlue"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontFamily" Value="Segoe Print"/>
+        </Style>
+    </Application.Resources>
+</Application>
